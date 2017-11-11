@@ -7,7 +7,6 @@ rm -rf $PREFIX/share/icons/hicolor/24x24/apps/youdao-dict.png
 rm -rf $PREFIX/share/icons/hicolor/48x48/apps/youdao-dict.png
 rm -rf $PREFIX/share/icons/hicolor/64x64/apps/youdao-dict.png
 rm -rf $PREFIX/share/icons/hicolor/96x96/apps/youdao-dict.png
-rm -rf $PREFIX/share/icons/hicolor/scalable/apps/youdao-dict.png
 rm -rf $PREFIX/share/icons/hicolor/scalable/apps/youdao-dict.svg
 
 rm -rf $PREFIX/share/applications/youdao-dict.desktop
