@@ -8,6 +8,7 @@ rm -rf $PREFIX/share/icons/hicolor/48x48/apps/youdao-dict.png
 rm -rf $PREFIX/share/icons/hicolor/64x64/apps/youdao-dict.png
 rm -rf $PREFIX/share/icons/hicolor/96x96/apps/youdao-dict.png
 rm -rf $PREFIX/share/icons/hicolor/scalable/apps/youdao-dict.png
+rm -rf $PREFIX/share/icons/hicolor/scalable/apps/youdao-dict.svg
 
 rm -rf $PREFIX/share/applications/youdao-dict.desktop
 rm -rf $PREFIX/share/dbus-1/services/com.youdao.backend.service
@@ -21,6 +22,6 @@ rm -rf $PREFIX/share/doc/youdao-dict
 
 rm -rf $PREFIX/share/youdao-dict
 
-rm -rf /usr/bin/youdao-dict
+rm -rf $PREFIX/bin/youdao-dict
 
 rm -rf /etc/xdg/autostart/youdao-dict-autostart.desktop
